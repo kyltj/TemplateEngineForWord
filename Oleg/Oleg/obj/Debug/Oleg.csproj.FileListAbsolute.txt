@@ -1,0 +1,15 @@
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\bin\Debug\Oleg.exe.config
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\bin\Debug\Oleg.exe
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\bin\Debug\Oleg.pdb
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.csprojResolveAssemblyReference.cache
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.Properties.Resources.resources
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.csproj.GenerateResource.Cache
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.exe
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.pdb
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.MainForm.resources
+c:\users\димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.ADDtextBox1.resources
+C:\Users\Димон\documents\visual studio 2013\Projects\Oleg\Oleg\bin\Debug\MySql.Data.dll
+C:\Users\Димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.Identytay.resources
+C:\Users\Димон\documents\visual studio 2013\Projects\Oleg\Oleg\obj\Debug\Oleg.Spisock.resources
+C:\Users\Димон\documents\visual studio 2013\Projects\Oleg\Oleg\bin\Debug\Database11.accdb
+C:\Users\Димон\documents\visual studio 2013\Projects\Oleg\Oleg\bin\Debug\Database1.mdb
